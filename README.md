@@ -1,2 +1,3 @@
-# elm-cea
-Elm tests with Webpack
+# Elm tests
+
+Created with Create-Elm-App.
