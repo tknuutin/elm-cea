@@ -13,3 +13,26 @@ img {
   margin: 20px 0;
   max-width: 200px;
 }
+
+.node {
+  border: 2px solid #808080;
+  background-color: #e5e5e5;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  margin: 2px;
+}
+
+.node.start {
+  background-color: white;
+}
+
+.node.path {
+  background-color: red;
+}
+.node.wall {
+  background-color: grey;
+}
+.node.target {
+  background-color: green;
+}
